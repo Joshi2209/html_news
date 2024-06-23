@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  margin: 50px auto;
+  padding: 20px;
+  max-width: 800px;
+  background-color: black;
+  color: rgb(189, 184, 184);
+  border-radius: 5px;
+  box-shadow: 5px;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+ul {
+  list-style-type: none;
+  padding: 0px;
+}
+li {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 20px;
+}
+h2 {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+p {
+  color: rgb(189, 184, 184);
+}
+a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
